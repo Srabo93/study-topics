@@ -1,0 +1,147 @@
+[
+  {
+    "aggregateId": "counter-1",
+    "version": 1,
+    "type": "CounterIncremented",
+    "occurredAt": "2026-01-06T23:17:38.171Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 2,
+    "type": "CounterIncremented",
+    "occurredAt": "2026-01-06T23:17:38.171Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 3,
+    "type": "CounterDecremented",
+    "occurredAt": "2026-01-06T23:17:38.171Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 4,
+    "type": "CounterIncremented",
+    "occurredAt": "2026-01-06T23:17:38.171Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 5,
+    "type": "CounterIncremented",
+    "occurredAt": "2026-01-06T23:17:38.171Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 6,
+    "type": "CounterIncremented",
+    "occurredAt": "2026-01-06T23:17:38.171Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 7,
+    "type": "CounterDecremented",
+    "occurredAt": "2026-01-06T23:17:38.171Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 8,
+    "type": "CounterDecremented",
+    "occurredAt": "2026-01-06T23:17:38.171Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 9,
+    "type": "CounterIncremented",
+    "occurredAt": "2026-01-06T23:17:38.171Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 10,
+    "type": "CounterIncremented",
+    "occurredAt": "2026-01-06T23:17:38.172Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 11,
+    "type": "CounterIncremented",
+    "occurredAt": "2026-01-06T23:17:38.172Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 12,
+    "type": "CounterDecremented",
+    "occurredAt": "2026-01-06T23:17:38.172Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 13,
+    "type": "CounterIncremented",
+    "occurredAt": "2026-01-06T23:17:40.344Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 14,
+    "type": "CounterIncremented",
+    "occurredAt": "2026-01-06T23:17:40.344Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 15,
+    "type": "CounterDecremented",
+    "occurredAt": "2026-01-06T23:17:40.344Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 16,
+    "type": "CounterIncremented",
+    "occurredAt": "2026-01-06T23:17:40.345Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 17,
+    "type": "CounterIncremented",
+    "occurredAt": "2026-01-06T23:17:40.345Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 18,
+    "type": "CounterIncremented",
+    "occurredAt": "2026-01-06T23:17:40.345Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 19,
+    "type": "CounterDecremented",
+    "occurredAt": "2026-01-06T23:17:40.345Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 20,
+    "type": "CounterDecremented",
+    "occurredAt": "2026-01-06T23:17:40.345Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 21,
+    "type": "CounterIncremented",
+    "occurredAt": "2026-01-06T23:17:40.345Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 22,
+    "type": "CounterIncremented",
+    "occurredAt": "2026-01-06T23:17:40.345Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 23,
+    "type": "CounterIncremented",
+    "occurredAt": "2026-01-06T23:17:40.345Z"
+  },
+  {
+    "aggregateId": "counter-1",
+    "version": 24,
+    "type": "CounterDecremented",
+    "occurredAt": "2026-01-06T23:17:40.345Z"
+  }
+]
+
